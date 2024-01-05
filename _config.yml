@@ -16,10 +16,11 @@ timezone:
 
 title: Cristopher Quintana # the main title
 
-tagline: Tesista IECI UBB # it will display as the sub-title
+tagline: Tesist "Ingeniería de Ejecución en Computación e Informática", Universidad del Bío Bío  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Soy un programador, proficiente en desarrollo web y que busca aventurarse en el mundo de Machine Learning
+  I am a programmer, I am very proficient in web development,
+  looking to specialize in Machine Learning
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
