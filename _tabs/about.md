@@ -34,3 +34,5 @@ the framework and be more eficcient.
 - I am not the best when it comes to servers, uploading a website, or cloud services, but that's because my experience as a developer 
 has been more focused on the development side.
 - I don't like seeing bad code even when it works and I want to modify that no matter what.
+
+####Thanks for reading!
