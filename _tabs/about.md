@@ -35,4 +35,4 @@ the framework and be more eficcient.
 has been more focused on the development side.
 - I don't like seeing bad code even when it works and I want to modify that no matter what.
 
-####Thanks for reading!
+#### Thanks for reading!
